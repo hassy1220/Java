@@ -4,7 +4,7 @@
 //     System.out.println("こんにちわ");
 //   }
 // }
-package calcapp.logics;
+package calcapp;
 public class Zenhan{
   public static int tasu(int a,int b){
     return (a+b);
