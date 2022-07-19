@@ -8,9 +8,10 @@ public class hairetus{
        array.add(date);
      }
      
-     //for(String name : array){
+     for(String name : array){
+       
        System.out.println(array);
-     //}
+     }
     
   }
 }
